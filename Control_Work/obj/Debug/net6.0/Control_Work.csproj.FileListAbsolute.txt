@@ -1,0 +1,15 @@
+E:\GEEKBRAINS\CSHARH\Control_Work\bin\Debug\net6.0\Control_Work.exe
+E:\GEEKBRAINS\CSHARH\Control_Work\bin\Debug\net6.0\Control_Work.deps.json
+E:\GEEKBRAINS\CSHARH\Control_Work\bin\Debug\net6.0\Control_Work.runtimeconfig.json
+E:\GEEKBRAINS\CSHARH\Control_Work\bin\Debug\net6.0\Control_Work.dll
+E:\GEEKBRAINS\CSHARH\Control_Work\bin\Debug\net6.0\Control_Work.pdb
+E:\GEEKBRAINS\CSHARH\Control_Work\obj\Debug\net6.0\Control_Work.csproj.AssemblyReference.cache
+E:\GEEKBRAINS\CSHARH\Control_Work\obj\Debug\net6.0\Control_Work.GeneratedMSBuildEditorConfig.editorconfig
+E:\GEEKBRAINS\CSHARH\Control_Work\obj\Debug\net6.0\Control_Work.AssemblyInfoInputs.cache
+E:\GEEKBRAINS\CSHARH\Control_Work\obj\Debug\net6.0\Control_Work.AssemblyInfo.cs
+E:\GEEKBRAINS\CSHARH\Control_Work\obj\Debug\net6.0\Control_Work.csproj.CoreCompileInputs.cache
+E:\GEEKBRAINS\CSHARH\Control_Work\obj\Debug\net6.0\Control_Work.dll
+E:\GEEKBRAINS\CSHARH\Control_Work\obj\Debug\net6.0\refint\Control_Work.dll
+E:\GEEKBRAINS\CSHARH\Control_Work\obj\Debug\net6.0\Control_Work.pdb
+E:\GEEKBRAINS\CSHARH\Control_Work\obj\Debug\net6.0\Control_Work.genruntimeconfig.cache
+E:\GEEKBRAINS\CSHARH\Control_Work\obj\Debug\net6.0\ref\Control_Work.dll
